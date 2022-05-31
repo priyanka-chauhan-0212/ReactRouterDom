@@ -1,0 +1,13 @@
+.serviceimg1 .serviceimg2 .serviceimg3 .serviceimg4 {
+  width: 100%;
+}
+.w3-containerpart {
+  background: var(--main-color);
+  color: white;
+}
+.w3-container {
+  color: var(--main-color-text);
+}
+.serviceimg {
+  width: 100%;
+}
